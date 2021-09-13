@@ -1,1 +1,2 @@
-# visit-card
+# newNote
+Mimimalistic note writing Pet Project
